@@ -23,6 +23,7 @@ exclude:
   - "Gemfile"
   - "Gemfile.lock"
   - "LICENSE"
+  - "vendor"
   # Legacy assignments from another course; keep the source files, but do not
   # publish them or add their Markdown pages to the site navigation.
   - "content/Assignments"
