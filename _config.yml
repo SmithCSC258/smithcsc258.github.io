@@ -17,8 +17,8 @@ title: CSC 258
 tagline: Algorithms for Genomic Data
 description: Course website for CSC 258 (Algorithms for Genomic Data)
 author: Smith College CS
-baseurl: '/smithcsc258.github.io'
-url: 'https://rando2.github.io'
+baseurl: ''
+url: 'https://smithcsc258.github.io'
 exclude:
   - "Gemfile"
   - "Gemfile.lock"
