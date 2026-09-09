@@ -18,7 +18,8 @@ description: Course policies and expectations.
 - Semester: Fall 2026
 - Class time: WF 1:20 - 2:35
 - Location: Bass 002
-- Office hours: Monday 1:45 - 2:45; second OH TBA
+- Office hours: Monday 1:45–2:45 p.m.
+- Second office hour: TBD based on student availability survey
 
 ## Course Description
 This course introduces core algorithms used in bioinformatics, focusing on how biological sequences are transformed into computational representations for large-scale analysis. Students study string algorithms for alignment, k-mer counting, indexing, and genome assembly, emphasizing implementation, efficiency, and design tradeoffs. The course also explores how sequence-derived features support downstream analyses such as dimensionality reduction and association studies. Programming assignments and a final project provide hands-on experience working with real genomic data.
@@ -34,7 +35,7 @@ Biological sequence data is one of the largest and most computationally demandin
 
 The course begins with DNA strings, exact and approximate matching, k-mers, and the time and memory costs of different representations. We then connect sequencing reads to genome reconstruction, developing overlap and de Bruijn graph formulations and Eulerian reconstruction while considering the complications introduced by errors, repeats, and uneven coverage.
 
-The second half of the course covers sequence alignment through dynamic programming, computational phylogenetics, and genome indexing with the Burrows–Wheeler Transform and FM-index. The final unit brings these ideas together through the design, implementation, testing, and benchmarking of a Jellyfish-like k-mer counting tool.
+The second half of the course covers sequence alignment through dynamic programming, computational phylogenetics, and genome indexing with the Burrows–Wheeler Transform and FM-index. The final unit brings these ideas together through the design, implementation, testing, and benchmarking of a genomic data-processing tool.
 
 Throughout the course, we emphasize practical implementation, empirical evaluation, biological and computational correctness, and reasoned tradeoffs among runtime, memory use, scalability, and maintainability.
 
@@ -73,7 +74,7 @@ Programming work will primarily use Python, though students may use other langua
 For the midterm, each student will improve a computational biology article for the ISCB Wikipedia competition. The project proceeds through topic proposal and instructor approval, registration of the approved topic, analysis of the existing article, a complete draft, peer review, and publication of the final revision on Wikipedia. Although the external competition remains open until May, the final article and accompanying reflection must be submitted for the course by November 13. See the [Midterm page]({{ '/midterm/' | relative_url }}) for requirements, resources, and deadlines.
 
 ## Final Project
-Throughout the semester, students will complete checkpoints on component algorithms that they will need for the final project. They will then submit a project plan, a proposed implementation, and a first complete version of a substantial genomic data-processing tool. After benchmarking that version in class and receiving feedback, students will revise it and submit a final iteration with a reflection on what changed and why. Across these stages, the project emphasizes algorithm design, correctness, performance evaluation, scalability, and justified implementation decisions. See the [Final Project page]({{ '/final-project/' | relative_url }}) for requirements and deadlines.
+Throughout the semester, students will complete checkpoints on component algorithms that they will need for the final project, including code reviews on September 30 and November 6. Code Review 2 focuses on the graph/reconstruction project. Students will then submit a project plan, a minimum viable implementation, and a first complete version of a substantial genomic data-processing tool. After benchmarking that version in class and receiving feedback, students will revise it and submit a final iteration with a reflection on what changed and why. Across these stages, the project emphasizes algorithm design, correctness, performance evaluation, scalability, and justified implementation decisions. See the [Assignments]({{ '/assignments/' | relative_url }}) and [Final Project]({{ '/final-project/' | relative_url }}) pages for requirements and deadlines.
 
 ## Tentative Course Sequence
 
@@ -99,15 +100,14 @@ The course website is the source of truth for policies, deadlines, and updates. 
 
 - GitHub Issues (or PRs) are preferred for assignment questions and clarifications.
 - Email is for private or time-sensitive matters.
-- Students will submit code via [Smith's JupyterHub](https://jupyterhub.smith.edu/).
-- Moodle may be used occasionally for submissions or feedback.
+- Coursework may be submitted through GitHub repositories or pull requests, [Smith's JupyterHub](https://jupyterhub.smith.edu/), or Moodle, as specified for each assignment. Moodle may also be used for feedback.
 
 ### Email expectations
 
 - Email is checked once per business day.
 - You can expect a response within 24–48 business hours.
 - Emails sent outside business hours are treated as arriving the next business day.
-- Emails about CSC258 should use the subject line format `CSC258: <brief description>`.
+- Emails about CSC 258 should use the subject line format `CSC 258: <brief description>`.
 
 
 ### How to ask for help effectively
@@ -161,6 +161,7 @@ If I have concerns about academic integrity, I am required to meet with the stud
 ### Generative AI
 
 In this class, generative AI is not allowed in our classroom or TA hours.
+You should use a code editor that has no generative-AI extensions or features installed or enabled. This means that you should not use AI-enabled editors such as Cursor for coursework.
 You should not use generative AI on work that is submitted to me or your team members.
 You should not use generative AI to critique peer code during code review.
 If I have concerns that generative AI is being used for the work that is supposed to be representative of your learning process, I am required by Smith policy to report it.

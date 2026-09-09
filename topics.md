@@ -10,6 +10,21 @@ parent: Course Info
 
 [View the complete *Computer Science Curricula 2013* report (PDF).](https://www.acm.org/binaries/content/assets/education/cs2013_web_final.pdf)
 
+## Course Learning Goals
+
+By the end of the course, students will be able to:
+
+- Explain how biological sequences are represented computationally and why representation choices matter.
+- Implement and evaluate core string and graph algorithms used in bioinformatics.
+- Formulate sequence alignment as an optimization problem and solve it using dynamic programming.
+- Select, implement, and evaluate data structures for efficient counting, assembly, and search in genomic datasets.
+- Analyze tradeoffs among runtime, memory use, implementation choices, and scalability in genomic data processing.
+- Translate biological questions and biological data into appropriate computational formulations.
+- Test and benchmark a genomic data-processing tool, use evidence and feedback to identify limitations, and make justified revisions.
+- Communicate computational-biology concepts, methods, and results to both technical and broader audiences.
+
+## ACM/IEEE CS2013 Learning Outcomes
+
 This course addresses the following learning outcomes from the *ACM/IEEE Computer Science Curricula 2013*. The labels in brackets indicate the expected level of mastery: Familiarity, Usage, or Assessment.
 
 ## AL/Fundamental Data Structures and Algorithms
@@ -23,7 +38,6 @@ This course addresses the following learning outcomes from the *ACM/IEEE Compute
 
 ### Core-Tier2
 
-- **Outcome 11:** Solve problems using graph algorithms, including single-source and all-pairs shortest paths, and at least one minimum spanning tree algorithm. **[Usage]**
 - **Outcome 12:** Trace and/or implement a string-matching algorithm. **[Usage]**
 
 ## CN/Computational Science
@@ -59,4 +73,4 @@ This course addresses the following learning outcomes from the *ACM/IEEE Compute
 
 ## A Note About Prior Experience
 
-Students will enter this course with varying levels of experience with these learning goals. Because of the course prerequisite, I assume that everyone is familiar with the Core-Tier1 learning goals—or is willing to put in the work needed to become familiar with them. Our goal for the semester is for every student to meet the outcomes listed above and for every student to grow from their individual starting point. Students who enter with prior experience should aim to move beyond the stated ACM level—for example, progressing from Usage to Assessment even when the ACM goal is Usage.
+Students will enter this course with varying experience with these concepts. Some will be familiar from prerequisite coursework, while others will be revisited and developed in CSC 258. Our goal is for every student to grow from their individual starting point and reach the course learning goals by the end of the semester.
