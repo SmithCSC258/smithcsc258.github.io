@@ -19,9 +19,9 @@ For the midterm project, each student will improve a computational biology artic
 | **Friday, October 16** | **Existing-article analysis** — identify strengths, weaknesses, gaps, and sourcing needs. |
 | **Friday, October 30** | **Proposed edits** — provide a concrete revision plan and preliminary sources. |
 | **Friday, November 6** | **Peer review** — give and receive actionable feedback. |
-| **Friday, November 13** | **Course-complete submission** — finish the revised article and reflection. |
+| **Friday, November 13** | **Final Wikipedia submission** — publish the revised article and submit the accompanying reflection. |
 
-For the course-complete submission, article edits should be published or ready to publish, sources and edit summaries should be complete, and the accompanying reflection should be submitted. Competition administration may occur later, but the academic work for this project should be finished by November 13.
+For the final submission, the revised article must be published on Wikipedia, with complete sources and edit summaries, and the accompanying reflection must be submitted. Competition administration may occur later, but the academic work for this project must be finished by November 13.
 
 ## Competition Entries
 

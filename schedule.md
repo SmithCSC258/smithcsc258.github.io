@@ -33,13 +33,13 @@ Mountain Day is announced by the president during the semester and cancels class
 | **17** | Wed 11/4 | **[Sequence Comparison as Optimization]({{ '/sessions/17/' | relative_url }})** |  |
 | **18** | Fri 11/6 | **[Dynamic Programming and Global Alignment]({{ '/sessions/18/' | relative_url }})** | Wikipedia: peer review |
 | **19** | Wed 11/11 | **[Local Alignment and Algorithmic Choices]({{ '/sessions/19/' | relative_url }})** |  |
-| **20** | Fri 11/13 | **[EukPhylo: Computational Phylogenetics]({{ '/sessions/20/' | relative_url }})** | Wikipedia: course-complete submission |
-| **21** | Wed 11/18 | **[Genome Indexing and Search + Burrows–Wheeler Transform / FM-index]({{ '/sessions/21/' | relative_url }})** | Final project: algorithm decomposition + prior-project map |
+| **20** | Fri 11/13 | **[EukPhylo: Computational Phylogenetics]({{ '/sessions/20/' | relative_url }})** | Wikipedia: final published submission |
+| **21** | Wed 11/18 | **[Genome Indexing and Search + Burrows–Wheeler Transform / FM-index]({{ '/sessions/21/' | relative_url }})** | Final project plan: algorithm decomposition + prior-project map |
 | **22** | Fri 11/20 | **[Final Project: Architecture and Interface Design]({{ '/sessions/22/' | relative_url }})** | Architecture/specification review |
 |  | Wed 11/25 & Fri 11/27 | **Thanksgiving recess — no class** |  |
-| **23** | Wed 12/2 | **[Final Project I: Data Representations]({{ '/sessions/23/' | relative_url }})** | Minimum viable implementation |
+| **23** | Wed 12/2 | **[Final Project I: Data Representations]({{ '/sessions/23/' | relative_url }})** | Proposed implementation |
 | **24** | Fri 12/4 | **[Final Project II: Real-World Data]({{ '/sessions/24/' | relative_url }})** | Final project: testing and validation |
-| **25** | Wed 12/9 | **[Final Project: Benchmarking, Profiling, and Testing]({{ '/sessions/25/' | relative_url }})** | Final project: initial submission |
+| **25** | Wed 12/9 | **[Final Project: Benchmarking, Profiling, and Testing]({{ '/sessions/25/' | relative_url }})** | Final project: first complete version |
 | **26** | Fri 12/11 | **[Final Project: Technical Reviews and Demonstrations]({{ '/sessions/26/' | relative_url }})** | Final project: benchmarking and peer/code review |
 |  | Tue 12/15 | **No class meeting** | Final project: iteration plan |
 |  | Sun 12/20, 11:59 p.m. | **Final examination period** | Final Project: Iteration |

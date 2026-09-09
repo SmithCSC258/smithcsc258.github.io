@@ -16,11 +16,11 @@ Assignments, midterm, and final project requirements.
 | **Fri Oct. 16** | [Midterm]({{ '/midterm/' | relative_url }}) | Existing-article analysis |
 | **Fri Oct. 30** | [Midterm]({{ '/midterm/' | relative_url }}) | Proposed edits |
 | **Fri Nov. 6** | [Midterm]({{ '/midterm/' | relative_url }}) | Peer review |
-| **Fri Nov. 13** | [Midterm]({{ '/midterm/' | relative_url }}) | Course-complete submission |
-| **Wed Nov. 18** | [Final Project]({{ '/final-project/' | relative_url }}) | Algorithm decomposition and prior-project map |
-| **Wed Dec. 2** | [Final Project]({{ '/final-project/' | relative_url }}) | Minimum viable implementation |
+| **Fri Nov. 13** | [Midterm]({{ '/midterm/' | relative_url }}) | Final published Wikipedia submission |
+| **Wed Nov. 18** | [Final Project]({{ '/final-project/' | relative_url }}) | Project plan: algorithm decomposition and prior-project map |
+| **Wed Dec. 2** | [Final Project]({{ '/final-project/' | relative_url }}) | Proposed implementation |
 | **Fri Dec. 4** | [Final Project]({{ '/final-project/' | relative_url }}) | Testing and validation checkpoint |
-| **Wed Dec. 9** | [Final Project]({{ '/final-project/' | relative_url }}) | Initial project submission |
+| **Wed Dec. 9** | [Final Project]({{ '/final-project/' | relative_url }}) | First complete version (initial submission) |
 | **Fri Dec. 11** | [Final Project]({{ '/final-project/' | relative_url }}) | Benchmarking and peer/code review |
 | **Tue Dec. 15** | [Final Project]({{ '/final-project/' | relative_url }}) | Iteration plan |
 | **Sun Dec. 20, 11:59 p.m.** | [Final Project]({{ '/final-project/' | relative_url }}) | Final Project: Iteration |

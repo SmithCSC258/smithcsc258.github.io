@@ -8,7 +8,7 @@ description: Final project requirements and milestones.
 
 # Final Project
 
-Students will design and implement a substantial genomic data processing tool. The project emphasizes algorithm design, correctness, performance evaluation, and benchmarking. Students will analyze scalability and tradeoffs using real or simulated genomic datasets. A written report will summarize implementation decisions, empirical results, and interpretation.
+Throughout the semester, students will complete checkpoints on component algorithms needed for the final project. They will then submit a project plan, a proposed implementation, and a first complete version of a substantial genomic data-processing tool. After in-class benchmarking and feedback, students will revise the tool and submit a final iteration and reflection. The project emphasizes algorithm design, correctness, performance evaluation, scalability, and justified implementation decisions.
 
 ## Required components
 - Functional implementation with clear documentation
@@ -20,10 +20,10 @@ Students will design and implement a substantial genomic data processing tool. T
 
 | Due date | Milestone |
 |:---|:---|
-| **Wednesday, November 18** | **Algorithm decomposition and prior-project map** — break the end-goal algorithm into components; identify which earlier projects each component extends or reuses; identify new components and dependencies. |
-| **Wednesday, December 2** | **Minimum viable implementation** — demonstrate that the core approach works on a small or test dataset. |
+| **Wednesday, November 18** | **Project plan** — break the end-goal algorithm into components; identify which earlier projects each component extends or reuses; identify new components and dependencies. |
+| **Wednesday, December 2** | **Proposed implementation** — demonstrate that the core approach works on a small or test dataset. |
 | **Friday, December 4** | **Testing and validation checkpoint** — demonstrate correctness and identify failure modes. |
-| **Wednesday, December 9** | **Initial project submission** — submit a complete working implementation and technical explanation. |
+| **Wednesday, December 9** | **First complete version** — submit a complete working implementation and technical explanation. This is the project's initial submission before benchmarking and iteration. |
 | **Friday, December 11** | **Benchmarking and peer/code review** — evaluate performance and receive actionable feedback. |
 | **Tuesday, December 15** | **Iteration plan** — use the evidence and peer review to identify what should change and what will be revised. |
-| **Sunday, December 20 at 11:59 p.m.** | **Final Project: Iteration** — submit the revised implementation, final analysis, and reflection. |
+| **Sunday, December 20 at 11:59 p.m.** | **Final Project: Iteration** — submit the revised implementation, final analysis, and reflection based on benchmarking and feedback. |
