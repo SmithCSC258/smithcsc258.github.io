@@ -1,0 +1,29 @@
+.session-kicker {
+  color: $grey-dk-100;
+  font-weight: 600;
+  margin-bottom: $sp-2;
+}
+
+.session-grid {
+  display: grid;
+  gap: $sp-4;
+  grid-template-columns: minmax(0, 1fr);
+  margin: $sp-6 0;
+}
+
+.session-card,
+.session-notes {
+  @extend %card;
+
+  h2:first-child {
+    margin-top: 0;
+  }
+}
+
+.session-notes {
+  margin-bottom: $sp-6;
+}
+
+.session-back {
+  font-weight: 600;
+}

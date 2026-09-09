@@ -1,0 +1,13 @@
+# Jekyll build output and caches
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# Local Bundler files
+.bundle/
+vendor/
+
+# Editor, OS, and local working files
+.DS_Store
+.Rhistory
+codex.log

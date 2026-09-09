@@ -1,0 +1,231 @@
+term:
+  name: "Spring 2026"
+  start_date: 2026-01-26
+  end_date: 2026-05-01
+  slides_pptx_base_url: "https://www.science.smith.edu/~hrando/csc210/slides/"
+  meeting_days:
+    - "Tuesday"
+    - "Thursday"
+  assignment_due_day: "Tuesday"
+  assignment_due_time: "11:59 PM"
+  skip_ranges:
+    - start: 2026-03-14
+      end: 2026-03-22
+      label: "Spring recess"
+  skip_dates:
+    []
+  special_dates:
+    - date: 2026-02-19
+      label: "Midterm 1 weekend: Feb 20–22 (asynchronous)"
+    - date: 2026-03-26
+      label: "Midterm 2 weekend: Mar 27–29 (asynchronous)"
+    - date: 2026-04-23
+      label: "Midterm 3 weekend: Apr 24–26 (asynchronous)"
+    - date: 2026-02-26
+      label: "Rally Day (afternoon classes canceled)"
+    - date: 2026-05-01
+      label: "Last day of classes"
+
+modules:
+  - title: "Week 01"
+    sessions: 2
+  - title: "Week 02"
+    sessions: 2
+  - title: "Week 03"
+    sessions: 2
+  - title: "Week 04"
+    sessions: 2
+  - title: "Week 05"
+    sessions: 2
+  - title: "Week 06"
+    sessions: 2
+  - title: "Week 07"
+    sessions: 2
+  - title: "Week 08"
+    sessions: 2
+  - title: "Week 09"
+    sessions: 2
+  - title: "Week 10"
+    sessions: 2
+  - title: "Week 11"
+    sessions: 2
+  - title: "Week 12"
+    sessions: 2
+  - title: "Week 13"
+    sessions: 2
+  - title: "Week 14"
+    sessions: 2
+  - title: "Week 15"
+    sessions: 2
+
+slides_dir: "assets/slides"
+
+assignments:
+  - id: "a0"
+    title: "A0: DynamicArray Prototype"
+    download_url: "https://github.com/SmithCSC210/assignments_sp26/releases/tag/A0"
+    gradescope_url: "https://www.gradescope.com/courses/1225360/assignments/7459459"
+  - id: "a1"
+    title: "A1: Dynamic Programming"
+  - id: "a2"
+    title: "A2: Linked List Prototype and Core Methods"
+  - id: "a3"
+    title: "A3: Linked Lists and Iterators"
+  - id: "a4"
+    title: "A4: DIY Calculator"
+  - id: "a5"
+    title: "A5: Maze Runner"
+  - id: "a6"
+    title: "A6: DIY Spellchecker"
+  - id: "a7"
+    title: "A7: Guessing Game"
+  - id: "a8"
+    title: "A8: Trees/Heaps"
+  - id: "a9"
+    title: "A9: Graph Representations"
+  - id: "a10"
+    title: "A10: Independent Graph Traversal Project"
+
+sessions:
+  -
+    title: "Introduction / Intro to Arrays"
+    type: "lecture"
+    slides: "01-intro.pptx"
+  -
+    title: "Arrays & Index Access"
+    type: "lecture"
+    slides: "03-encodinginfo.pptx"
+  -
+    title: "Array Edits"
+    type: "lecture"
+    assignments_due:
+      - id: "a0"
+    slides: "04-arrays.pptx"
+  -
+    title: "Linked Lists"
+    type: "lecture"
+    slides: "05-loops-copy-iterators.pptx"
+  -
+    title: "Add & Remove"
+    type: "lecture"
+    assignments_due:
+      - id: "a1"
+    slides: "06-linkedlists.pptx"
+  -
+    title: "Lists & Iterators"
+    type: "lecture"
+    slides: "07-listedits.pptx"
+  -
+    title: "Exceptions/List Wrap-Up"
+    type: "lecture"
+    assignments_due:
+      - id: "a2"
+    slides: "08-lists+iterators.pptx"
+    slides_extra:
+      - "08S-shunt-yard.pptx"
+  -
+    title: "Stacks, Queues Deques"
+    type: "lecture"
+    slides: "09-stacks-queues-deques.pptx"
+  -
+    title: "SQD Implementation"
+    type: "lecture"
+    assignments_due:
+      - id: "a3"
+    slides: "10-recursion.pptx"
+  -
+    title: "Recursion I"
+    type: "lecture"
+    slides: "11-recursion2.pptx"
+  -
+    title: "Recursion II"
+    type: "lecture"
+    assignments_due:
+      - id: "a4"
+    slides: "12-sorting-intro.pptx"
+  -
+    title: "Sorting: DS-Specifics"
+    type: "lecture"
+    slides: "13-sorting-ds-specifics.pptx"
+    slides_extra:
+      - "13b-comparables.pptx"
+  -
+    title: "Sorting"
+    type: "lecture"
+    slides: "14-maps.pptx"
+  -
+    title: "Hash Maps"
+    type: "lecture"
+    slides: "15-sets.pptx"
+  -
+    title: "Hash Map Implementation"
+    type: "lecture"
+    assignments_due:
+      - id: "a5"
+    slides: "16-hashtable-impl.pptx"
+  -
+    title: "Binary Trees"
+    type: "lecture"
+    slides: "17-trees-intro.pptx"
+  -
+    title: "Binary Search Trees"
+    type: "lecture"
+    assignments_due:
+      - id: "a6"
+    slides: "18-binary-search-trees.pptx"
+  -
+    title: "Tree Implementations"
+    type: "lecture"
+    slides: "18-heaps.pptx"
+  -
+    title: "Graphs Intro"
+    type: "lecture"
+    assignments_due:
+      - id: "a7"
+    slides: "19-graphs-intro.pptx"
+  -
+    title: "Heaps"
+    type: "lecture"
+    slides: "21-graphs-implementation.pptx"
+  -
+    title: "Tree Wrap-Up"
+    type: "lecture"
+    slides: "22-graph-traversal.pptx"
+  -
+    title: "Graph Definitions"
+    type: "lecture"
+    slides: "23-shortest-path.pptx"
+  -
+    title: "Graph Representations"
+    type: "lecture"
+    assignments_due:
+      - id: "a8"
+    slides: "24-ds-mashups.pptx"
+  -
+    title: "Graph Traversal"
+    type: "lecture"
+    slides: "25-third-party.pptx"
+  -
+    title: "Shortest Path"
+    type: "lecture"
+    assignments_due:
+      - id: "a9"
+  -
+    title: "Semester Review"
+    type: "lecture"
+  -
+    title: "Final Exam Period"
+    type: "exam"
+    date: 2026-05-05
+  -
+    title: "Final Exam Period"
+    type: "exam"
+    date: 2026-05-06
+  -
+    title: "Final Exam Period"
+    type: "exam"
+    date: 2026-05-07
+  -
+    title: "Final Exam Period"
+    type: "exam"
+    date: 2026-05-08

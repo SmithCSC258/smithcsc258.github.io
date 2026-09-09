@@ -1,0 +1,57 @@
+term:
+  name: "Spring 2026"
+  week_start: 1
+  sessions_per_week: 2
+  start_date: 2026-01-26
+  end_date: 2026-05-01
+  slides_pptx_base_url: "https://www.science.smith.edu/~hrando/csc210/slides/"
+  slide_sequence:
+    - 01-intro.pptx
+    - 03-encodinginfo.pptx
+    - 04-arrays.pptx
+    - 05-loops-copy-iterators.pptx
+    - 06-linkedlists.pptx
+    - 07-listedits.pptx
+    - [08-lists+iterators.pptx, 08S-shunt-yard.pptx]
+    - 09-stacks-queues-deques.pptx
+    - 10-recursion.pptx
+    - 11-recursion2.pptx
+    - 12-sorting-intro.pptx
+    - [13-sorting-ds-specifics.pptx, 13b-comparables.pptx]
+    - 14-maps.pptx
+    - 15-sets.pptx
+    - 16-hashtable-impl.pptx
+    - 17-trees-intro.pptx
+    - 18-binary-search-trees.pptx
+    - 18-heaps.pptx
+    - 19-graphs-intro.pptx
+    - 21-graphs-implementation.pptx
+    - 22-graph-traversal.pptx
+    - 23-shortest-path.pptx
+    - 24-ds-mashups.pptx
+    - 25-third-party.pptx
+  meeting_days:
+    - Tuesday
+    - Thursday
+  assignment_due_day: "Tuesday"
+  assignment_due_time: "11:59 PM"
+  skip_ranges:
+    - start: 2026-03-14
+      end: 2026-03-22
+      label: "Spring recess"
+  skip_dates: []
+  special_dates:
+    - date: 2026-02-19
+      label: "Midterm 1 weekend: Feb 20–22 (asynchronous)"
+    - date: 2026-03-26
+      label: "Midterm 2 weekend: Mar 27–29 (asynchronous)"
+    - date: 2026-04-23
+      label: "Midterm 3 weekend: Apr 24–26 (asynchronous)"
+    - date: 2026-02-26
+      label: "Rally Day (afternoon classes canceled)"
+    - date: 2026-05-01
+      label: "Last day of classes"
+    - date: 2026-05-05
+      label: "Final exams begin"
+    - date: 2026-05-08
+      label: "Final exams end (3:00 PM)"

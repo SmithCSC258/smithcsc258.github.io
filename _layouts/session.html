@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<p class="session-kicker">Class {{ page.meeting }} · {{ page.session_date | date: "%A, %B %-d, %Y" }}</p>
+<h1>{{ page.title }}</h1>
+
+<div class="session-grid">
+  <section class="session-card">
+    <h2>Before Class</h2>
+    {% if page.before_class %}
+      {{ page.before_class | markdownify }}
+    {% else %}
+      <p>Preparation materials will be posted here.</p>
+    {% endif %}
+  </section>
+
+  <section class="session-card">
+    <h2>During Class</h2>
+    {% if page.during_class %}
+      {{ page.during_class | markdownify }}
+    {% else %}
+      {{ content }}
+    {% endif %}
+  </section>
+
+  <section class="session-card">
+    <h2>After Class</h2>
+    {% if page.after_class %}
+      {{ page.after_class | markdownify }}
+    {% else %}
+      <p>Follow-up materials will be posted here.</p>
+    {% endif %}
+  </section>
+
+  {% if page.project %}
+    <section class="session-card">
+      <h2>Project</h2>
+      {{ page.project | markdownify }}
+    </section>
+  {% endif %}
+</div>
+
+<p class="session-back"><a href="{{ '/schedule/' | relative_url }}">← Back to the schedule</a></p>
