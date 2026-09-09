@@ -70,7 +70,7 @@ The book is structured around active exercises and computational challenges that
 Programming work will primarily use Python, though students may use other languages for the final project with instructor approval.
 
 ## Midterm Project
-For the midterm, each student will improve a computational biology article for the ISCB Wikipedia competition. The project proceeds through topic proposal and instructor approval, registration of the approved topic, analysis of the existing article, a proposed revision plan, peer review, and publication of the final revision on Wikipedia. Although the external competition remains open until May, the final article and accompanying reflection must be submitted for the course by November 13. See the [Midterm page]({{ '/midterm/' | relative_url }}) for requirements, resources, and deadlines.
+For the midterm, each student will improve a computational biology article for the ISCB Wikipedia competition. The project proceeds through topic proposal and instructor approval, registration of the approved topic, analysis of the existing article, a complete draft, peer review, and publication of the final revision on Wikipedia. Although the external competition remains open until May, the final article and accompanying reflection must be submitted for the course by November 13. See the [Midterm page]({{ '/midterm/' | relative_url }}) for requirements, resources, and deadlines.
 
 ## Final Project
 Throughout the semester, students will complete checkpoints on component algorithms that they will need for the final project. They will then submit a project plan, a proposed implementation, and a first complete version of a substantial genomic data-processing tool. After benchmarking that version in class and receiving feedback, students will revise it and submit a final iteration with a reflection on what changed and why. Across these stages, the project emphasizes algorithm design, correctness, performance evaluation, scalability, and justified implementation decisions. See the [Final Project page]({{ '/final-project/' | relative_url }}) for requirements and deadlines.
@@ -91,9 +91,6 @@ The dated [Schedule]({{ '/schedule/' | relative_url }}) is the source of truth f
 
 ## Academically Engaged Time
 Students should expect to spend approximately 8–10 hours per week outside of scheduled class meetings. This includes time spent on readings, Rosalind problems, metacognitive reflections, midterm checkpoints, testing and debugging code, and final-project development. Weeks with major project milestones may require additional time.
-
-## Collaboration and Academic Integrity (Summary)
-Collaboration is encouraged at the level of discussion and idea exchange. All submitted work must be the student’s own and must appropriately cite collaborators and external resources in accordance with the Smith College Honor Code.
 
 ## Communication & Response Norms
 The course website is the source of truth for policies, deadlines, and updates. Please use the channels below to keep questions organized and response times predictable.
@@ -156,11 +153,7 @@ Research indicates that course evaluations can be influenced by conscious or unc
 [^course-evaluation-bias]: Östlin, O., Möller, R., Brage, T., & Espersson, M. (2020). [*Gender bias in students’ course evaluations: Risk analysis in five dimensions of previous research and examples at Lund University*](https://lucris.lub.lu.se/ws/portalfiles/portal/125385235/BIKUPA_ENGLISH_2022_09_23.pdf).
 [^hurtful-evaluations]: LeFebvre, L. E., Carmack, H. J., & Pederson, J. R. (2020). [“It’s only one negative comment”: Women instructors’ perceptions of (un)helpful support messages following hurtful course evaluations](https://doi.org/10.1080/03634523.2019.1672879). *Communication Education, 69*(1), 19–47.
 
-## Collaboration and Academic Integrity (Detailed)
-
-### Collaboration with Other People
-
-Collaboration during in-class work may involve shared discussion; graded Rosalind problems must be completed individually. You may discuss approaches, algorithms, and design decisions with classmates, but you must write, debug, and submit your own code. You may not view another student’s code before submitting your own work. Students are strongly encouraged to form study groups and to collaborate in solving the assignments. You should include a list of all students you worked with in your README file for each assignment. Please ensure that all work you submit is ultimately the product of your own understanding rather than anyone else’s.
+## Academic Integrity
 
 ### Academic integrity process
 If I have concerns about academic integrity, I am required to meet with the student to share those concerns and then refer the matter to the Academic Integrity Board to manage next steps. I do not adjudicate whether or not a violation occurred. More information is available here: https://www.smith.edu/your-campus/offices-services/dean-college/academic-integrity-board.

@@ -17,8 +17,8 @@ For the midterm project, each student will improve a computational biology artic
 | **Monday, October 5** | **Topic proposal** — propose an article for instructor approval; do not register it yet. |
 | **Friday, October 9** | **Approved topic claimed** — after receiving instructor approval, register the article on the competition page. |
 | **Friday, October 16** | **Existing-article analysis** — identify strengths, weaknesses, gaps, and sourcing needs. |
-| **Friday, October 30** | **Proposed edits** — provide a concrete revision plan and preliminary sources. |
-| **Friday, November 6** | **Peer review** — give and receive actionable feedback. |
+| **Wednesday, October 28** | **Draft** — complete the proposed edits with sources and edit summaries in place. |
+| **Friday, October 30** | **Peer review** — give and receive actionable feedback on the draft. |
 | **Friday, November 13** | **Final Wikipedia submission** — publish the revised article and submit the accompanying reflection. |
 
 For the final submission, the revised article must be published on Wikipedia, with complete sources and edit summaries, and the accompanying reflection must be submitted. Competition administration may occur later, but the academic work for this project must be finished by November 13.
