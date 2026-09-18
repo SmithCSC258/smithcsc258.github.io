@@ -12,12 +12,18 @@
 }
 
 .session-card,
-.session-notes {
+.session-notes,
+.session-reminders {
   @extend %card;
 
   h2:first-child {
     margin-top: 0;
   }
+}
+
+.session-reminders {
+  border-left: 4px solid $link-color;
+  margin: $sp-5 0 0;
 }
 
 .session-notes {

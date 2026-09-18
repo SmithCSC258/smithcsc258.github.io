@@ -16,24 +16,24 @@ Mountain Day is announced by the president during the semester and cancels class
 |---:|:---|:---|:---|
 | **1** | Wed 9/9 | **[Course Introduction and Bioinformatics]({{ '/sessions/01/' | relative_url }})** |  |
 | **2** | Fri 9/11 | **[Git and GitHub Fundamentals]({{ '/sessions/02/' | relative_url }})** |  |
-| **3** | Wed 9/16 | **[DNA String Representation]({{ '/sessions/03/' | relative_url }})** |  |
-| **4** | Fri 9/18 | **[k-mer Counting]({{ '/sessions/04/' | relative_url }})** |  |
-| **5** | Wed 9/23 | **[Reverse Complements and Canonical k-mers]({{ '/sessions/05/' | relative_url }})** |  |
-| **6** | Fri 9/25 | **[Numerical k-mer Representations]({{ '/sessions/06/' | relative_url }})** |  |
-| **7** | Wed 9/30 | **[Algorithmic Complexity and Benchmarking]({{ '/sessions/07/' | relative_url }})** | Pull request/code review 1 |
-| **8** | Fri 10/2 | **[k-mer Counter Design]({{ '/sessions/08/' | relative_url }})** | Midterm topic proposal due Mon 10/5 |
-| **9** | Wed 10/7 | **[Approximate Matching / Selected Motifs]({{ '/sessions/09/' | relative_url }})** |  |
-| **10** | Fri 10/9 | **[Sequencing Reads, k-mer Composition, and the Reconstruction Problem]({{ '/sessions/10/' | relative_url }})** | Midterm: claim approved topic |
-| **11** | Wed 10/14 | **[Tanya Lama: Where Genomic Data Come From]({{ '/sessions/11/' | relative_url }})** |  |
-| **12** | Fri 10/16 | **[Independent Catch-up / Project Day]({{ '/sessions/12/' | relative_url }})** | Midterm: existing-article analysis |
-| **13** | Wed 10/21 | **[Arjun Krishnan: Modern Computational Genomics at Scale]({{ '/sessions/13/' | relative_url }})** |  |
-| **14** | Fri 10/23 | **[de Bruijn Graphs]({{ '/sessions/14/' | relative_url }})** |  |
-| **15** | Wed 10/28 | **[Eulerian Reconstruction]({{ '/sessions/15/' | relative_url }})** |  |
-| **16** | Fri 10/30 | **[Errors, Repeats, Coverage, and k-mer Spectra]({{ '/sessions/16/' | relative_url }})** | Midterm: draft |
-| **17** | Wed 11/4 | **[Sequence Comparison as Optimization]({{ '/sessions/17/' | relative_url }})** |  |
-| **18** | Fri 11/6 | **[Dynamic Programming and Global Alignment]({{ '/sessions/18/' | relative_url }})** | Code Review 2: graph/reconstruction project; Midterm peer review due asynchronously |
-| **19** | Wed 11/11 | **[Local Alignment and Algorithmic Choices]({{ '/sessions/19/' | relative_url }})** |  |
-| **20** | Fri 11/13 | **[EukPhylo: Computational Phylogenetics]({{ '/sessions/20/' | relative_url }})** | Midterm: final published submission |
+| **3** | Wed 9/16 | **[Class Canceled]({{ '/sessions/03/' | relative_url }})** |  |
+| **4** | Fri 9/18 | **[DNA String Representation]({{ '/sessions/04/' | relative_url }})** |  |
+| **5** | Wed 9/23 | **[k-mer Counting]({{ '/sessions/05/' | relative_url }})** |  |
+| **6** | Fri 9/25 | **[Reverse Complements and Canonical k-mers]({{ '/sessions/06/' | relative_url }})** |  |
+| **7** | Wed 9/30 | **[Numerical k-mer Representations]({{ '/sessions/07/' | relative_url }})** | Pull request/code review 1 |
+| **8** | Fri 10/2 | **[Algorithmic Complexity and Benchmarking]({{ '/sessions/08/' | relative_url }})** | Midterm topic proposal due Mon 10/5 |
+| **9** | Wed 10/7 | **[k-mer Counter Design]({{ '/sessions/09/' | relative_url }})** |  |
+| **10** | Fri 10/9 | **[Approximate Matching / Selected Motifs]({{ '/sessions/10/' | relative_url }})** | Midterm: claim approved topic |
+| **11** | Wed 10/14 | **[Sequencing Reads, k-mer Composition, and the Reconstruction Problem]({{ '/sessions/11/' | relative_url }})** |  |
+| **12** | Fri 10/16 | **[Tanya Lama: Where Genomic Data Come From]({{ '/sessions/12/' | relative_url }})** | Midterm: existing-article analysis |
+| **13** | Wed 10/21 | **[Independent Catch-up / Project Day]({{ '/sessions/13/' | relative_url }})** |  |
+| **14** | Fri 10/23 | **[Arjun Krishnan: Modern Computational Genomics at Scale]({{ '/sessions/14/' | relative_url }})** |  |
+| **15** | Wed 10/28 | **[de Bruijn Graphs]({{ '/sessions/15/' | relative_url }})** |  |
+| **16** | Fri 10/30 | **[Eulerian Reconstruction]({{ '/sessions/16/' | relative_url }})** | Midterm: draft |
+| **17** | Wed 11/4 | **[Errors, Repeats, Coverage, and k-mer Spectra]({{ '/sessions/17/' | relative_url }})** |  |
+| **18** | Fri 11/6 | **[Sequence Comparison as Optimization]({{ '/sessions/18/' | relative_url }})** | Code Review 2: graph/reconstruction project; Midterm peer review due asynchronously |
+| **19** | Wed 11/11 | **[Dynamic Programming and Global Alignment]({{ '/sessions/19/' | relative_url }})** |  |
+| **20** | Fri 11/13 | **[Local Alignment and Algorithmic Choices]({{ '/sessions/20/' | relative_url }})** | Midterm: final published submission |
 | **21** | Wed 11/18 | **[Genome Indexing and Search + Burrows–Wheeler Transform / FM-index]({{ '/sessions/21/' | relative_url }})** | Final project plan: algorithm decomposition + prior-project map |
 | **22** | Fri 11/20 | **[Final Project: Architecture and Interface Design]({{ '/sessions/22/' | relative_url }})** | Final project: architecture/specification review |
 |  | Wed 11/25 & Fri 11/27 | **Thanksgiving recess — no class** |  |

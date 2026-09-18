@@ -35,7 +35,7 @@ Biological sequence data is one of the largest and most computationally demandin
 
 The course begins with DNA strings, exact and approximate matching, k-mers, and the time and memory costs of different representations. We then connect sequencing reads to genome reconstruction, developing overlap and de Bruijn graph formulations and Eulerian reconstruction while considering the complications introduced by errors, repeats, and uneven coverage.
 
-The second half of the course covers sequence alignment through dynamic programming, computational phylogenetics, and genome indexing with the Burrows–Wheeler Transform and FM-index. The final unit brings these ideas together through the design, implementation, testing, and benchmarking of a genomic data-processing tool.
+The second half of the course covers sequence alignment through dynamic programming and genome indexing with the Burrows–Wheeler Transform and FM-index. The final unit brings these ideas together through the design, implementation, testing, and benchmarking of a genomic data-processing tool.
 
 Throughout the course, we emphasize practical implementation, empirical evaluation, biological and computational correctness, and reasoned tradeoffs among runtime, memory use, scalability, and maintainability.
 
@@ -79,12 +79,12 @@ Throughout the semester, students will complete checkpoints on component algorit
 ## Tentative Course Sequence
 
 - **Meetings 1–2:** Course introduction; Git and GitHub fundamentals
-- **Meetings 3–8:** DNA strings; k-mers; counting; representations; algorithmic complexity; k-mer counter design
-- **Meetings 9–10:** Approximate matching and selected motif material; sequencing reads, k-mer composition, and the reconstruction problem
-- **Meetings 11–13:** Genomic data from sample to biological inference; project work; modern computational genomics at scale
-- **Meetings 14–16:** de Bruijn graphs; Eulerian reconstruction; errors, repeats, coverage, and k-mer spectra
-- **Meetings 17–19:** Sequence comparison; dynamic programming; global and local alignment
-- **Meeting 20:** Computational phylogenetics
+- **Meeting 3:** Class canceled
+- **Meetings 4–9:** DNA strings; k-mers; counting; representations; algorithmic complexity; k-mer counter design
+- **Meetings 10–11:** Approximate matching and selected motif material; sequencing reads, k-mer composition, and the reconstruction problem
+- **Meetings 12–14:** Genomic data from sample to biological inference; project work; modern computational genomics at scale
+- **Meetings 15–17:** de Bruijn graphs; Eulerian reconstruction; errors, repeats, coverage, and k-mer spectra
+- **Meetings 18–20:** Sequence comparison; dynamic programming; global and local alignment
 - **Meeting 21:** Genome indexing and search; Burrows–Wheeler Transform and FM-index
 - **Meetings 22–26:** Final-project architecture, data representations, real-world data, testing, benchmarking, profiling, technical review, and demonstration
 
