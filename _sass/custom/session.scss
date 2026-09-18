@@ -22,14 +22,31 @@
 }
 
 .session-reminders {
-  border-left: 4px solid $link-color;
+  background: #fff8d6;
+  border: 1px solid #e3c85b;
+  border-left: 5px solid #b78600;
+  box-shadow: none;
   margin: $sp-5 0 0;
+  padding: $sp-3 $sp-4;
+
+  h2 {
+    font-size: 1.25rem;
+    margin-bottom: $sp-2;
+  }
+
+  > :last-child {
+    margin-bottom: 0;
+  }
 }
 
 .session-notes {
   margin-bottom: $sp-6;
 }
 
-.session-back {
+.session-navigation {
+  align-items: center;
+  display: flex;
   font-weight: 600;
+  justify-content: space-between;
+  margin-top: $sp-6;
 }

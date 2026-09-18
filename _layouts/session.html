@@ -48,4 +48,15 @@ layout: default
   {% endif %}
 </div>
 
-<p class="session-back"><a href="{{ '/schedule/' | relative_url }}">← Back to the schedule</a></p>
+<nav class="session-navigation" aria-label="Class session navigation">
+  <a href="{{ '/schedule/' | relative_url }}">← Back to the schedule</a>
+  {% if page.meeting < 26 %}
+    {% assign next_meeting = page.meeting | plus: 1 %}
+    {% if next_meeting < 10 %}
+      {% capture next_session_path %}/sessions/0{{ next_meeting }}/{% endcapture %}
+    {% else %}
+      {% capture next_session_path %}/sessions/{{ next_meeting }}/{% endcapture %}
+    {% endif %}
+    <a href="{{ next_session_path | relative_url }}">Class {{ next_meeting }} →</a>
+  {% endif %}
+</nav>
