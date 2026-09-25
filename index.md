@@ -18,12 +18,12 @@ Welcome to CSC 258. This site is the definitive source for course information, p
 - Semester: Fall 2026
 - Class time: WF 1:20 - 2:35
 - Location: Bass 002
-- Office hours: Monday 1:45–2:45 p.m.
-- Second office hour: TBD based on student availability survey
+- Office hours: Monday 1:45–2:45 p.m. and Friday 3–4 p.m.
 
 ## Scheduling
 - [Schedule](schedule.md)
 - [Topics](topics)
+- [Vocabulary](vocab)
 
 ## Assignments & Exams
 - [Assignments](assignments.md)

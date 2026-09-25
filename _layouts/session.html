@@ -48,6 +48,13 @@ layout: default
   {% endif %}
 </div>
 
+{% if site.moodle_forum_url %}
+  <aside class="session-discussion">
+    <strong>Questions or discussion?</strong>
+    <a href="{{ site.moodle_forum_url }}">Continue the conversation in the course Moodle forum →</a>
+  </aside>
+{% endif %}
+
 <nav class="session-navigation" aria-label="Class session navigation">
   <a href="{{ '/schedule/' | relative_url }}">← Back to the schedule</a>
   {% if page.meeting < 26 %}
@@ -57,6 +64,6 @@ layout: default
     {% else %}
       {% capture next_session_path %}/sessions/{{ next_meeting }}/{% endcapture %}
     {% endif %}
-    <a href="{{ next_session_path | relative_url }}">Class {{ next_meeting }} →</a>
+    <a class="session-next" href="{{ next_session_path | relative_url }}">Class {{ next_meeting }} →</a>
   {% endif %}
 </nav>

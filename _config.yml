@@ -19,6 +19,7 @@ description: Course website for CSC 258 (Algorithms for Genomic Data)
 author: Smith College CS
 baseurl: ''
 url: 'https://smithcsc258.github.io'
+moodle_forum_url: 'https://moodle.smith.edu/mod/forum/view.php?id=1511281'
 exclude:
   - "Gemfile"
   - "Gemfile.lock"

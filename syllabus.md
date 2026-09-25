@@ -18,8 +18,7 @@ description: Course policies and expectations.
 - Semester: Fall 2026
 - Class time: WF 1:20 - 2:35
 - Location: Bass 002
-- Office hours: Monday 1:45–2:45 p.m.
-- Second office hour: TBD based on student availability survey
+- Office hours: Monday 1:45–2:45 p.m. and Friday 3–4 p.m.
 
 ## Course Description
 This course introduces core algorithms used in bioinformatics, focusing on how biological sequences are transformed into computational representations for large-scale analysis. Students study string algorithms for alignment, k-mer counting, indexing, and genome assembly, emphasizing implementation, efficiency, and design tradeoffs. The course also explores how sequence-derived features support downstream analyses such as dimensionality reduction and association studies. Programming assignments and a final project provide hands-on experience working with real genomic data.
