@@ -10,7 +10,7 @@ parent: Course Info
 
 Class meets Wednesdays and Fridays from 1:20–2:35 p.m. in Bass 002. This schedule follows the [Smith College Fall 2026 academic calendar](https://www.smith.edu/academics/academic-calendar) and is subject to change.
 
-Mountain Day is announced by the president during the semester and cancels classes before 7 p.m. If Mountain Day falls on a Wednesday or Friday, the remaining schedule will be adjusted.
+Wednesday, September 23 is Mountain Day; no class will meet. Topics have shifted to the next available class, using the October 21 catch-up slot. Guest sessions remain on October 16 and October 23.
 
 | # | Date | Class Topic | Checkpoint |
 |---:|:---|:---|:---|
@@ -18,15 +18,15 @@ Mountain Day is announced by the president during the semester and cancels class
 | **2** | Fri 9/11 | **[Git and GitHub Fundamentals]({{ '/sessions/02/' | relative_url }})** |  |
 | **3** | Wed 9/16 | **[Class Canceled]({{ '/sessions/03/' | relative_url }})** |  |
 | **4** | Fri 9/18 | **[DNA String Representation]({{ '/sessions/04/' | relative_url }})** |  |
-| **5** | Wed 9/23 | **[k-mer Counting]({{ '/sessions/05/' | relative_url }})** |  |
-| **6** | Fri 9/25 | **[Reverse Complements and Canonical k-mers]({{ '/sessions/06/' | relative_url }})** |  |
-| **7** | Wed 9/30 | **[Numerical k-mer Representations]({{ '/sessions/07/' | relative_url }})** | Pull request/code review 1 |
-| **8** | Fri 10/2 | **[Algorithmic Complexity and Benchmarking]({{ '/sessions/08/' | relative_url }})** | Midterm topic proposal due Mon 10/5 |
-| **9** | Wed 10/7 | **[k-mer Counter Design]({{ '/sessions/09/' | relative_url }})** |  |
-| **10** | Fri 10/9 | **[Approximate Matching / Selected Motifs]({{ '/sessions/10/' | relative_url }})** | Midterm: claim approved topic |
-| **11** | Wed 10/14 | **[Sequencing Reads, k-mer Composition, and the Reconstruction Problem]({{ '/sessions/11/' | relative_url }})** |  |
+| **5** | Wed 9/23 | **[Mountain Day]({{ '/sessions/05/' | relative_url }})** |  |
+| **6** | Fri 9/25 | **[k-mer Counting]({{ '/sessions/06/' | relative_url }})** |  |
+| **7** | Wed 9/30 | **[Reverse Complements and Canonical k-mers]({{ '/sessions/07/' | relative_url }})** |  |
+| **8** | Fri 10/2 | **[Numerical k-mer Representations]({{ '/sessions/08/' | relative_url }})** | Pull request/code review 1; Midterm topic proposal due Mon 10/5 |
+| **9** | Wed 10/7 | **[Algorithmic Complexity and Benchmarking]({{ '/sessions/09/' | relative_url }})** |  |
+| **10** | Fri 10/9 | **[k-mer Counter Design]({{ '/sessions/10/' | relative_url }})** | Midterm: claim approved topic |
+| **11** | Wed 10/14 | **[Approximate Matching / Selected Motifs]({{ '/sessions/11/' | relative_url }})** |  |
 | **12** | Fri 10/16 | **[Tanya Lama: Where Genomic Data Come From]({{ '/sessions/12/' | relative_url }})** | Midterm: existing-article analysis |
-| **13** | Wed 10/21 | **[Independent Catch-up / Project Day]({{ '/sessions/13/' | relative_url }})** |  |
+| **13** | Wed 10/21 | **[Sequencing Reads, k-mer Composition, and the Reconstruction Problem]({{ '/sessions/13/' | relative_url }})** |  |
 | **14** | Fri 10/23 | **[Arjun Krishnan: Modern Computational Genomics at Scale]({{ '/sessions/14/' | relative_url }})** |  |
 | **15** | Wed 10/28 | **[de Bruijn Graphs]({{ '/sessions/15/' | relative_url }})** |  |
 | **16** | Fri 10/30 | **[Eulerian Reconstruction]({{ '/sessions/16/' | relative_url }})** | Midterm: draft |
