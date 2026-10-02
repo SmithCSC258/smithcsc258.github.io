@@ -7,12 +7,18 @@ has_children: true
 
 Assignments, midterm, and final project requirements.
 
+## PSet-2 Submission
+
+[PSet-2 submission form](https://docs.google.com/forms/d/e/1FAIpQLSd0zsJdmnuo_apBuWpc1WmneGKKkNWJKFo4jFQv_nAxUt1e_g/viewform?usp=header){: .btn .btn-primary }
+
+PSet-2 is **due Sunday night, October 4**. Commit and push your work to GitHub by the deadline; I will review your repository on **Tuesday, October 6**. See [Assignments]({{ '/assignments/' | relative_url }}) for details.
+
 ## Project Deadlines
 
 | Date | Project | Deadline |
 |:---|:---|:---|
-| **Mon Oct. 5** | [Midterm]({{ '/midterm/' | relative_url }}) | Topic proposal |
-| **Fri Oct. 9** | [Midterm]({{ '/midterm/' | relative_url }}) | Approved topic claimed |
+| **Fri Oct. 9** | [Midterm]({{ '/midterm/' | relative_url }}) | Topic proposal |
+| **After instructor approval** | [Midterm]({{ '/midterm/' | relative_url }}) | Approved topic claimed |
 | **Fri Oct. 16** | [Midterm]({{ '/midterm/' | relative_url }}) | Existing-article analysis |
 | **Fri Oct. 30** | [Midterm]({{ '/midterm/' | relative_url }}) | Draft |
 | **Fri Nov. 6** | [Midterm]({{ '/midterm/' | relative_url }}) | Asynchronous peer review |

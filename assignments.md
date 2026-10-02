@@ -8,7 +8,21 @@ description: Assignment handouts and starter files.
 
 # Assignments
 
+## PSet-1
+
+PSet-1 was the in-class assignment on **Friday, September 25**.
+
+## PSet-2
+
+PSet-2 builds on your work from PSet-1 and is **due Sunday night, October 4**.
+
+**Submission:** Commit and push your PSet-2 work to your GitHub repository by Sunday night's deadline. I will review your GitHub repository on **Tuesday, October 6**.
+
+[PSet-2 form](https://docs.google.com/forms/d/e/1FAIpQLSd0zsJdmnuo_apBuWpc1WmneGKKkNWJKFo4jFQv_nAxUt1e_g/viewform?usp=header)
+
+## Checkpoints
+
 | Date | Checkpoint |
 |:---|:---|
-| **Wed Sep. 30** | Component-algorithm checkpoint and pull request/code review 1 |
+| **Wed Oct. 7** | Component-algorithm checkpoint and pull request/code review 1 |
 | **Fri Nov. 6** | Graph/reconstruction project and Code Review 2 |
