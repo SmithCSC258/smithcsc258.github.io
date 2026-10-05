@@ -16,7 +16,7 @@ PSet-1 was the in-class assignment on **Friday, September 25**.
 
 PSet-2 builds on your work from PSet-1 and is **due Sunday night, October 4**.
 
-**Submission:** Commit and push your PSet-2 work to your GitHub repository by Sunday night's deadline. I will review your GitHub repository on **Tuesday, October 6**.
+**Submission:** Commit and push your PSet-2 work to your GitHub repository by Sunday night's deadline. I will review submissions received by the deadline **before class on Wednesday, October 7**.
 
 [PSet-2 form](https://docs.google.com/forms/d/e/1FAIpQLSd0zsJdmnuo_apBuWpc1WmneGKKkNWJKFo4jFQv_nAxUt1e_g/viewform?usp=header)
 
