@@ -10,6 +10,8 @@ description: Midterm project details and resources.
 
 For the midterm project, each student will improve a computational biology article for the ISCB Wikipedia competition. Although the external competition remains open until May, the course project must be completed during the fall semester.
 
+[Read the ISCB Student Wikipedia competition announcement](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Molecular_Biology/Computational_Biology/16th_ISCB_Student_Wikipedia_competition_announcement).
+
 ## Milestones
 
 | Due date | Milestone |

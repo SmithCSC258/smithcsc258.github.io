@@ -22,7 +22,7 @@ Wednesday, September 23 is Mountain Day; no class will meet. Topics have shifted
 | **6** | Fri 9/25 | **[k-mer Counting]({{ '/sessions/06/' | relative_url }})** |  |
 | **7** | Wed 9/30 | **[Review of Computational Complexity]({{ '/sessions/07/' | relative_url }})** |  |
 | **8** | Fri 10/2 | **[Conference Talks Viewing and Discussion]({{ '/sessions/08/' | relative_url }})** |  |
-| **9** | Wed 10/7 | **[Intro to Benchmarking & Peer Code Review 1]({{ '/sessions/09/' | relative_url }})** | Peer Code Review 1 |
+| **9** | Wed 10/7 | **[Intro to Benchmarking & Peer Code Review 1]({{ '/sessions/09/' | relative_url }})** | Peer Code Review 1 ([submit code](https://docs.google.com/forms/d/e/1FAIpQLSd0zsJdmnuo_apBuWpc1WmneGKKkNWJKFo4jFQv_nAxUt1e_g/viewform?usp=header)) |
 | **10** | Fri 10/9 | **[Reverse Complements and Canonical k-mers]({{ '/sessions/10/' | relative_url }})** | Midterm: topic proposal due |
 | **11** | Wed 10/14 | **[Approximate Matching / Selected Motifs]({{ '/sessions/11/' | relative_url }})** |  |
 | **12** | Fri 10/16 | **[Midterm Working Day]({{ '/sessions/12/' | relative_url }})** | Midterm: existing-article analysis |
