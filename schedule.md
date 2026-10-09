@@ -23,22 +23,23 @@ Wednesday, September 23 is Mountain Day; no class will meet. Topics have shifted
 | **7** | Wed 9/30 | **[Review of Computational Complexity]({{ '/sessions/07/' | relative_url }})** |  |
 | **8** | Fri 10/2 | **[Conference Talks Viewing and Discussion]({{ '/sessions/08/' | relative_url }})** |  |
 | **9** | Wed 10/7 | **[Intro to Benchmarking & Peer Code Review 1]({{ '/sessions/09/' | relative_url }})** | Peer Code Review 1 ([submit code](https://docs.google.com/forms/d/e/1FAIpQLSd0zsJdmnuo_apBuWpc1WmneGKKkNWJKFo4jFQv_nAxUt1e_g/viewform?usp=header)) |
-| **10** | Fri 10/9 | **[Reverse Complements and Canonical k-mers]({{ '/sessions/10/' | relative_url }})** | Midterm: topic proposal due |
+| **10** | Fri 10/9 | **[Reverse Complements and Canonical k-mers]({{ '/sessions/10/' | relative_url }})** |  |
 | **11** | Wed 10/14 | **[Approximate Matching / Selected Motifs]({{ '/sessions/11/' | relative_url }})** |  |
-| **12** | Fri 10/16 | **[Midterm Working Day]({{ '/sessions/12/' | relative_url }})** | Midterm: existing-article analysis |
+|  | Wed 10/14, 11:59 p.m. Eastern | **Email deadline** | Midterm: topic proposal email due (subject: **CSC 258: Midterm Topic**) |
+| **12** | Fri 10/16 | **[Midterm Working Day]({{ '/sessions/12/' | relative_url }})** | Midterm: [complete the planning form before class](https://docs.google.com/forms/d/e/1FAIpQLSefSxsLsfi8SQfT5X_YetW2Z8YZ6Tvp3h26qJVuv4sPcWuAmg/viewform?usp=header), including existing-article analysis and possible improvements; [book a time for Friday](https://calendar.app.google/LbTMcBAzuJZ4Bujs7) |
 | **13** | Wed 10/21 | **[Sequencing Reads, k-mer Composition, and the Reconstruction Problem]({{ '/sessions/13/' | relative_url }})** |  |
 | **14** | Fri 10/23 | **[Arjun Krishnan: Modern Computational Genomics at Scale]({{ '/sessions/14/' | relative_url }})** |  |
 | **15** | Wed 10/28 | **[de Bruijn Graphs]({{ '/sessions/15/' | relative_url }})** |  |
-| **16** | Fri 10/30 | **[Eulerian Reconstruction]({{ '/sessions/16/' | relative_url }})** | Midterm: draft |
+| **16** | Fri 10/30 | **[Eulerian Reconstruction]({{ '/sessions/16/' | relative_url }})** |  |
 | **17** | Wed 11/4 | **[Errors, Repeats, Coverage, and k-mer Spectra]({{ '/sessions/17/' | relative_url }})** |  |
-| **18** | Fri 11/6 | **[Sequence Comparison as Optimization]({{ '/sessions/18/' | relative_url }})** | Code Review 2: graph/reconstruction project; Midterm peer review due asynchronously |
+| **18** | Fri 11/6 | **[Sequence Comparison as Optimization]({{ '/sessions/18/' | relative_url }})** | Code Review 2: graph/reconstruction project; Midterm: draft due |
 | **19** | Wed 11/11 | **[Dynamic Programming and Global Alignment]({{ '/sessions/19/' | relative_url }})** |  |
-| **20** | Fri 11/13 | **[Local Alignment and Algorithmic Choices]({{ '/sessions/20/' | relative_url }})** | Midterm: final published submission |
+| **20** | Fri 11/13 | **[Local Alignment and Algorithmic Choices]({{ '/sessions/20/' | relative_url }})** | Midterm peer review due asynchronously |
 | **21** | Wed 11/18 | **[Genome Indexing and Search + Burrows–Wheeler Transform / FM-index]({{ '/sessions/21/' | relative_url }})** | Final project plan: algorithm decomposition + prior-project map |
 | **22** | Fri 11/20 | **[Final Project: Architecture and Interface Design]({{ '/sessions/22/' | relative_url }})** | Final project: architecture/specification review |
 |  | Wed 11/25 & Fri 11/27 | **Thanksgiving recess — no class** |  |
 | **23** | Wed 12/2 | **[Final Project I: Data Representations]({{ '/sessions/23/' | relative_url }})** | Final project: minimum viable implementation |
-| **24** | Fri 12/4 | **[Final Project II: Real-World Data]({{ '/sessions/24/' | relative_url }})** | Final project: testing and validation |
+| **24** | Fri 12/4 | **[Final Project II: Real-World Data]({{ '/sessions/24/' | relative_url }})** | Final project: testing and validation; Midterm: final published article and reflection due |
 | **25** | Wed 12/9 | **[Final Project: Initial Submission]({{ '/sessions/25/' | relative_url }})** | Final project: first complete version |
 | **26** | Fri 12/11 | **[Final Project: Benchmarking and Code Review]({{ '/sessions/26/' | relative_url }})** | Final project: Jellyfish comparison, benchmarking, and formal team code review 3 |
 |  | Tue 12/15 | **No class meeting** | Final project: iteration plan |
