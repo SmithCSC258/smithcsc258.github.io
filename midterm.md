@@ -52,49 +52,49 @@ The groups below highlight possible kinds of work. The labels summarize Wikipedi
 
 ### Make technical topics easier to understand
 
-| Article | Wikipedia flags |
-|:---|:---|
-| [Consensus sequence](https://en.wikipedia.org/wiki/Consensus_sequence) | Too technical |
-| [Haplotype](https://en.wikipedia.org/wiki/Haplotype) | Too technical |
-| [Maximum parsimony](https://en.wikipedia.org/wiki/Maximum_parsimony) | Too technical; Needs citations; Citation needed (inline) |
-| [Sequence motif](https://en.wikipedia.org/wiki/Sequence_motif) | Too technical; Needs citations; Unsourced sections; Needs secondary sources; Original research; Possible AI-generated text |
-| [Needleman–Wunsch algorithm](https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm) | Too technical |
-| [FASTQ format](https://en.wikipedia.org/wiki/FASTQ_format) | Too technical |
-| [Sequential structure alignment program](https://en.wikipedia.org/wiki/Sequential_structure_alignment_program) | Too technical |
-| [Split (phylogenetics)](https://en.wikipedia.org/wiki/Split_(phylogenetics)) | Too technical; Stub |
+| Article | Wikipedia flags | Claimed by |
+|:---|:---|:---|
+| [Consensus sequence](https://en.wikipedia.org/wiki/Consensus_sequence) | Too technical | Cass |
+| [Haplotype](https://en.wikipedia.org/wiki/Haplotype) | Too technical | |
+| [Maximum parsimony](https://en.wikipedia.org/wiki/Maximum_parsimony) | Too technical; Needs citations; Citation needed (inline) | |
+| [Sequence motif](https://en.wikipedia.org/wiki/Sequence_motif) | Too technical; Needs citations; Unsourced sections; Needs secondary sources; Original research; Possible AI-generated text | |
+| [Needleman–Wunsch algorithm](https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm) | Too technical | Anastasija |
+| [FASTQ format](https://en.wikipedia.org/wiki/FASTQ_format) | Too technical | |
+| [Sequential structure alignment program](https://en.wikipedia.org/wiki/Sequential_structure_alignment_program) | Too technical | |
+| [Split (phylogenetics)](https://en.wikipedia.org/wiki/Split_(phylogenetics)) | Too technical; Stub | |
 
 ### Add context for unfamiliar readers
 
-| Article | Wikipedia flags |
-|:---|:---|
-| [Gene Ontology Term Enrichment](https://en.wikipedia.org/wiki/Gene_Ontology_Term_Enrichment) | Needs context; Needs citations |
-| [Representative sequences](https://en.wikipedia.org/wiki/Representative_sequences) | Needs context; Needs citations |
+| Article | Wikipedia flags | Claimed by |
+|:---|:---|:---|
+| [Gene Ontology Term Enrichment](https://en.wikipedia.org/wiki/Gene_Ontology_Term_Enrichment) | Needs context; Needs citations | Jackie |
+| [Representative sequences](https://en.wikipedia.org/wiki/Representative_sequences) | Needs context; Needs citations | |
 
 ### Strengthen sourcing and coverage
 
-| Article | Wikipedia flags |
-|:---|:---|
-| [Multiple EM for Motif Elicitation](https://en.wikipedia.org/wiki/Multiple_EM_for_Motif_Elicitation) | Citation needed (inline) |
-| [Cladogram](https://en.wikipedia.org/wiki/Cladogram) | Needs citations |
-| [Phylogenetic tree](https://en.wikipedia.org/wiki/Phylogenetic_tree) | Needs citations; Citation needed (inline) |
-| [Cladistics](https://en.wikipedia.org/wiki/Cladistics) | Needs citations |
-| [Sequence alignment](https://en.wikipedia.org/wiki/Sequence_alignment) | Needs citations; Citation needed (inline) |
-| [BLAST (biotechnology)](https://en.wikipedia.org/wiki/BLAST_(biotechnology)) | Needs citations; Tone |
-| [Omics](https://en.wikipedia.org/wiki/Omics) | Needs citations; Citation needed (inline) |
-| [Distance matrix](https://en.wikipedia.org/wiki/Distance_matrix) | Needs citations; Missing information; Cleanup |
-| [Polytomy](https://en.wikipedia.org/wiki/Polytomy) | Needs citations |
-| [Sequence assembly](https://en.wikipedia.org/wiki/Sequence_assembly) | Needs citations |
-| [The Cancer Genome Atlas](https://en.wikipedia.org/wiki/The_Cancer_Genome_Atlas) | Needs citations; Citation needed (inline) |
-| [Y-STR](https://en.wikipedia.org/wiki/Y-STR) | Needs citations |
-| [Heptad repeat](https://en.wikipedia.org/wiki/Heptad_repeat) | Needs citations |
-| [Gene Expression Omnibus](https://en.wikipedia.org/wiki/Gene_Expression_Omnibus) | Needs citations; Stub |
-| [DNA read errors](https://en.wikipedia.org/wiki/DNA_read_errors) | Needs citations; Citation needed (inline); How-to style |
-| [MAVID](https://en.wikipedia.org/wiki/MAVID) | Needs citations; Stub |
-| [Track hub](https://en.wikipedia.org/wiki/Track_hub) | Needs citations; Needs secondary sources; Notability questioned; Orphan article; Stub |
-| [Horizontal correlation](https://en.wikipedia.org/wiki/Horizontal_correlation) | Needs citations |
-| [BFAST](https://en.wikipedia.org/wiki/BFAST) | Needs citations |
-| [OrthoFinder](https://en.wikipedia.org/wiki/OrthoFinder) | Needs citations |
-| [Maximal unique match](https://en.wikipedia.org/wiki/Maximal_unique_match) | Needs citations |
+| Article | Wikipedia flags | Claimed by|
+|:---|:---|:---|
+| [Multiple EM for Motif Elicitation](https://en.wikipedia.org/wiki/Multiple_EM_for_Motif_Elicitation) | Citation needed (inline) | |
+| [Cladogram](https://en.wikipedia.org/wiki/Cladogram) | Needs citations | |
+| [Phylogenetic tree](https://en.wikipedia.org/wiki/Phylogenetic_tree) | Needs citations; Citation needed (inline) | |
+| [Cladistics](https://en.wikipedia.org/wiki/Cladistics) | Needs citations | |
+| [Sequence alignment](https://en.wikipedia.org/wiki/Sequence_alignment) | Needs citations; Citation needed (inline) | |
+| [BLAST (biotechnology)](https://en.wikipedia.org/wiki/BLAST_(biotechnology)) | Needs citations; Tone | Beatrice |
+| [Omics](https://en.wikipedia.org/wiki/Omics) | Needs citations; Citation needed (inline) | |
+| [Distance matrix](https://en.wikipedia.org/wiki/Distance_matrix) | Needs citations; Missing information; Cleanup | |
+| [Polytomy](https://en.wikipedia.org/wiki/Polytomy) | Needs citations | |
+| [Sequence assembly](https://en.wikipedia.org/wiki/Sequence_assembly) | Needs citations | |
+| [The Cancer Genome Atlas](https://en.wikipedia.org/wiki/The_Cancer_Genome_Atlas) | Needs citations; Citation needed (inline) | |
+| [Y-STR](https://en.wikipedia.org/wiki/Y-STR) | Needs citations | |
+| [Heptad repeat](https://en.wikipedia.org/wiki/Heptad_repeat) | Needs citations | Renee |
+| [Gene Expression Omnibus](https://en.wikipedia.org/wiki/Gene_Expression_Omnibus) | Needs citations; Stub | |
+| [DNA read errors](https://en.wikipedia.org/wiki/DNA_read_errors) | Needs citations; Citation needed (inline); How-to style | |
+| [MAVID](https://en.wikipedia.org/wiki/MAVID) | Needs citations; Stub | |
+| [Track hub](https://en.wikipedia.org/wiki/Track_hub) | Needs citations; Needs secondary sources; Notability questioned; Orphan article; Stub | |
+| [Horizontal correlation](https://en.wikipedia.org/wiki/Horizontal_correlation) | Needs citations | |
+| [BFAST](https://en.wikipedia.org/wiki/BFAST) | Needs citations | Tanya |
+| [OrthoFinder](https://en.wikipedia.org/wiki/OrthoFinder) | Needs citations | |
+| [Maximal unique match](https://en.wikipedia.org/wiki/Maximal_unique_match) | Needs citations | |
 
 ## Competition Entries
 
