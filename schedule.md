@@ -10,7 +10,7 @@ parent: Course Info
 
 Class meets Wednesdays and Fridays from 1:20–2:35 p.m. in Bass 002. This schedule follows the [Smith College Fall 2026 academic calendar](https://www.smith.edu/academics/academic-calendar) and is subject to change.
 
-Wednesday, September 23 is Mountain Day; no class will meet. Topics have shifted to the next available class, using the October 21 catch-up slot. October 16 is a midterm working day; the October 23 guest session remains scheduled.
+Wednesday, September 23 is Mountain Day; no class will meet. Topics have shifted to the next available class. October 16 is a midterm working day. On October 21, attend Arjun Krishnan's **AI for Biomedical Discovery** talk in **McConnell 103** instead of Bass 002. The sequencing and reconstruction lesson will meet on October 23.
 
 | # | Date | Class Topic | Checkpoint |
 |---:|:---|:---|:---|
@@ -27,8 +27,8 @@ Wednesday, September 23 is Mountain Day; no class will meet. Topics have shifted
 | **11** | Wed 10/14 | **[Approximate Matching / Selected Motifs]({{ '/sessions/11/' | relative_url }})** |  |
 |  | Wed 10/14, 11:59 p.m. Eastern | **Email deadline** | Midterm: topic proposal email due (subject: **CSC 258: Midterm Topic**) |
 | **12** | Fri 10/16 | **[Midterm Working Day]({{ '/sessions/12/' | relative_url }})** | Midterm: [complete the planning form before class](https://docs.google.com/forms/d/e/1FAIpQLSefSxsLsfi8SQfT5X_YetW2Z8YZ6Tvp3h26qJVuv4sPcWuAmg/viewform?usp=header), including existing-article analysis and possible improvements; [book a time for Friday](https://calendar.app.google/LbTMcBAzuJZ4Bujs7) |
-| **13** | Wed 10/21 | **[Sequencing Reads, k-mer Composition, and the Reconstruction Problem]({{ '/sessions/13/' | relative_url }})** |  |
-| **14** | Fri 10/23 | **[Arjun Krishnan: Modern Computational Genomics at Scale]({{ '/sessions/14/' | relative_url }})** |  |
+| **13** | Wed 10/21 | **[Arjun Krishnan: AI for Biomedical Discovery]({{ '/sessions/13/' | relative_url }})** — **McConnell 103** |  |
+| **14** | Fri 10/23 | **[Sequencing Reads, k-mer Composition, and the Reconstruction Problem]({{ '/sessions/14/' | relative_url }})** |  |
 | **15** | Wed 10/28 | **[de Bruijn Graphs]({{ '/sessions/15/' | relative_url }})** |  |
 | **16** | Fri 10/30 | **[Eulerian Reconstruction]({{ '/sessions/16/' | relative_url }})** |  |
 | **17** | Wed 11/4 | **[Errors, Repeats, Coverage, and k-mer Spectra]({{ '/sessions/17/' | relative_url }})** |  |
