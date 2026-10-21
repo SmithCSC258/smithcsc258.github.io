@@ -26,6 +26,8 @@ PSet-3 is **due Friday, October 23**.
 
 [PSet-3 instructions and files](https://github.com/SmithCSC258/stringReps/tree/main/pset-3)
 
+[PSet-3 form](https://docs.google.com/forms/d/e/1FAIpQLSd0zsJdmnuo_apBuWpc1WmneGKKkNWJKFo4jFQv_nAxUt1e_g/viewform?usp=header)
+
 ## Checkpoints
 
 | Date | Checkpoint |

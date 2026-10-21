@@ -60,7 +60,7 @@ The groups below highlight possible kinds of work. The labels summarize Wikipedi
 | [Sequence motif](https://en.wikipedia.org/wiki/Sequence_motif) | Too technical; Needs citations; Unsourced sections; Needs secondary sources; Original research; Possible AI-generated text | |
 | [Needleman–Wunsch algorithm](https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm) | Too technical | Anastasija |
 | [FASTQ format](https://en.wikipedia.org/wiki/FASTQ_format) | Too technical | |
-| [Sequential structure alignment program](https://en.wikipedia.org/wiki/Sequential_structure_alignment_program) | Too technical | |
+| [Sequential structure alignment program](https://en.wikipedia.org/wiki/Sequential_structure_alignment_program) | Too technical | Vivian|
 | [Split (phylogenetics)](https://en.wikipedia.org/wiki/Split_(phylogenetics)) | Too technical; Stub | |
 
 ### Add context for unfamiliar readers
@@ -68,7 +68,7 @@ The groups below highlight possible kinds of work. The labels summarize Wikipedi
 | Article | Wikipedia flags | Claimed by |
 |:---|:---|:---|
 | [Gene Ontology Term Enrichment](https://en.wikipedia.org/wiki/Gene_Ontology_Term_Enrichment) | Needs context; Needs citations | Jackie |
-| [Representative sequences](https://en.wikipedia.org/wiki/Representative_sequences) | Needs context; Needs citations | |
+| [Representative sequences](https://en.wikipedia.org/wiki/Representative_sequences) | Needs context; Needs citations | Abby |
 
 ### Strengthen sourcing and coverage
 
@@ -81,7 +81,7 @@ The groups below highlight possible kinds of work. The labels summarize Wikipedi
 | [Sequence alignment](https://en.wikipedia.org/wiki/Sequence_alignment) | Needs citations; Citation needed (inline) | |
 | [BLAST (biotechnology)](https://en.wikipedia.org/wiki/BLAST_(biotechnology)) | Needs citations; Tone | Beatrice |
 | [Omics](https://en.wikipedia.org/wiki/Omics) | Needs citations; Citation needed (inline) | |
-| [Distance matrix](https://en.wikipedia.org/wiki/Distance_matrix) | Needs citations; Missing information; Cleanup | |
+| [Distance matrix](https://en.wikipedia.org/wiki/Distance_matrix) | Needs citations; Missing information; Cleanup | Whitin|
 | [Polytomy](https://en.wikipedia.org/wiki/Polytomy) | Needs citations | |
 | [Sequence assembly](https://en.wikipedia.org/wiki/Sequence_assembly) | Needs citations | |
 | [The Cancer Genome Atlas](https://en.wikipedia.org/wiki/The_Cancer_Genome_Atlas) | Needs citations; Citation needed (inline) | |

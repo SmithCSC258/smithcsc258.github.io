@@ -8,7 +8,7 @@ description: Final project requirements and milestones.
 
 # Final Project
 
-Throughout the semester, students will complete checkpoints on component algorithms needed for the final project, including code reviews on September 30 and November 6. Code Review 2 focuses on the graph/reconstruction project. Students will then submit a project plan, a minimum viable implementation, and a first complete version of a substantial genomic data-processing tool. After in-class benchmarking and feedback, students will revise the tool and submit a final iteration and reflection. The project emphasizes algorithm design, correctness, performance evaluation, scalability, and justified implementation decisions. See the [Assignments page]({{ '/assignments/' | relative_url }}) for the component-algorithm checkpoint dates.
+Throughout the semester, students will complete checkpoints on component algorithms needed for the final project, including code reviews on October 7 and November 6. Code Review 2 focuses on the graph/reconstruction project. Students will then submit a project plan, a minimum viable implementation, and a first complete version of a substantial genomic data-processing tool. After in-class benchmarking and feedback, students will revise the tool and submit a final iteration and reflection. The project emphasizes algorithm design, correctness, performance evaluation, scalability, and justified implementation decisions. See the [Assignments page]({{ '/assignments/' | relative_url }}) for the component-algorithm checkpoint dates.
 
 ## Required components
 - Functional implementation with clear documentation
