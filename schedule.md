@@ -30,10 +30,10 @@ Wednesday, September 23 is Mountain Day; no class will meet. Topics have shifted
 | **13** | Wed 10/21 | **[Arjun Krishnan: AI for Biomedical Discovery]({{ '/sessions/13/' | relative_url }})** — **McConnell 103** |  |
 | **14** | Fri 10/23 | **[Hamming Distance and Approximate Matching]({{ '/sessions/14/' | relative_url }})** |  |
 |  | Tue 10/27, at night | **Assignment deadline** | [PSet-3]({{ '/pset-3/' | relative_url }}) due |
-| **15** | Wed 10/28 | **[de Bruijn Graphs]({{ '/sessions/15/' | relative_url }})** |  |
-| **16** | Fri 10/30 | **[Eulerian Reconstruction]({{ '/sessions/16/' | relative_url }})** |  |
+| **15** | Wed 10/28 | **[Agglomerative Clustering]({{ '/sessions/15/' | relative_url }})** |  |
+| **16** | Fri 10/30 | **[Introduction to Alignment]({{ '/sessions/16/' | relative_url }})** |  |
 |  | Tue 11/3 | **Assignment deadline** | [PSet-4]({{ '/pset-4/' | relative_url }}) due |
-| **17** | Wed 11/4 | **[Errors, Repeats, Coverage, and k-mer Spectra]({{ '/sessions/17/' | relative_url }})** |  |
+| **17** | Wed 11/4 | **[de Bruijn Graphs]({{ '/sessions/17/' | relative_url }})** | Reading: pp. 117–129 |
 | **18** | Fri 11/6 | **[Sequence Comparison as Optimization]({{ '/sessions/18/' | relative_url }})** | Code Review 2: graph/reconstruction project; Midterm: draft due |
 | **19** | Wed 11/11 | **[Dynamic Programming and Global Alignment]({{ '/sessions/19/' | relative_url }})** |  |
 | **20** | Fri 11/13 | **[Local Alignment and Algorithmic Choices]({{ '/sessions/20/' | relative_url }})** | Midterm peer review due asynchronously |
