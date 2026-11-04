@@ -34,7 +34,7 @@ Wednesday, September 23 is Mountain Day; no class will meet. Topics have shifted
 | **16** | Fri 10/30 | **[Introduction to Alignment]({{ '/sessions/16/' | relative_url }})** |  |
 |  | Tue 11/3 | **Assignment deadline** | [PSet-4]({{ '/pset-4/' | relative_url }}) due |
 | **17** | Wed 11/4 | **[de Bruijn Graphs]({{ '/sessions/17/' | relative_url }})** | Reading: pp. 117–129 |
-| **18** | Fri 11/6 | **[Sequence Comparison as Optimization]({{ '/sessions/18/' | relative_url }})** | Code Review 2: graph/reconstruction project; Midterm: draft due |
+| **18** | Fri 11/6 | **[Sequence Comparison as Optimization]({{ '/sessions/18/' | relative_url }})** | Code Review 2: graph/reconstruction project; Midterm: [draft due — submit on Moodle](https://moodle.smith.edu/mod/assign/view.php?id=1526822) |
 | **19** | Wed 11/11 | **[Dynamic Programming and Global Alignment]({{ '/sessions/19/' | relative_url }})** |  |
 | **20** | Fri 11/13 | **[Local Alignment and Algorithmic Choices]({{ '/sessions/20/' | relative_url }})** | Midterm peer review due asynchronously |
 | **21** | Wed 11/18 | **[Genome Indexing and Search + Burrows–Wheeler Transform / FM-index]({{ '/sessions/21/' | relative_url }})** | Final project plan: algorithm decomposition + prior-project map |

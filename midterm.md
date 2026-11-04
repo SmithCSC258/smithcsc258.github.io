@@ -19,7 +19,7 @@ For the midterm project, each student will improve a computational biology artic
 | **Wednesday, October 14, 11:59 p.m. (Eastern Time)** | **Topic proposal email** — use the subject **CSC 258: Midterm Topic** and share your topic interests; do not register it yet. |
 | **After instructor approval** | **Approved topic claimed** — after receiving instructor approval, [register the topic](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Molecular_Biology/Computational_Biology/16th_ISCB_Wikipedia_competition_entries) on the competition page. |
 | **Friday, October 16, in class** | **Completed planning form and existing-article analysis** — bring your possible improvements, identifying strengths, weaknesses, gaps, and sourcing needs. [Book a time for Friday](https://calendar.app.google/LbTMcBAzuJZ4Bujs7). |
-| **Friday, November 6** | **Draft** — complete the proposed edits with sources and edit summaries in place. |
+| **Friday, November 6** | **[Draft — submit on Moodle](https://moodle.smith.edu/mod/assign/view.php?id=1526822)** — complete the proposed edits with sources and edit summaries in place. |
 | **Friday, November 13** | **Peer review** — give and receive actionable feedback on the draft asynchronously. |
 | **Friday, December 4** | **Final Wikipedia submission** — publish the revised article and submit the accompanying reflection. |
 
