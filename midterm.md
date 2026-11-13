@@ -20,7 +20,7 @@ For the midterm project, each student will improve a computational biology artic
 | **After instructor approval** | **Approved topic claimed** — after receiving instructor approval, [register the topic](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Molecular_Biology/Computational_Biology/16th_ISCB_Wikipedia_competition_entries) on the competition page. |
 | **Friday, October 16, in class** | **Completed planning form and existing-article analysis** — bring your possible improvements, identifying strengths, weaknesses, gaps, and sourcing needs. [Book a time for Friday](https://calendar.app.google/LbTMcBAzuJZ4Bujs7). |
 | **Friday, November 6** | **[Draft — submit on Moodle](https://moodle.smith.edu/mod/assign/view.php?id=1526822)** — complete the proposed edits with sources and edit summaries in place. |
-| **Friday, November 13** | **Peer review** — give and receive actionable feedback on the draft asynchronously. |
+| **Tuesday, December 1** | **Peer review** — give and receive actionable feedback on the draft asynchronously. See the [Peer Reviewer page]({{ '/peer-reviewer/' | relative_url }}) for assignments. |
 | **Friday, December 4** | **Final Wikipedia submission** — publish the revised article and submit the accompanying reflection. |
 
 For the final submission, the revised article must be published on Wikipedia, with complete sources and edit summaries, and the accompanying reflection must be submitted. Competition administration may occur later, but the academic work for this project must be finished by December 4.
@@ -95,6 +95,7 @@ The groups below highlight possible kinds of work. The labels summarize Wikipedi
 | [BFAST](https://en.wikipedia.org/wiki/BFAST) | Needs citations | Tanya |
 | [OrthoFinder](https://en.wikipedia.org/wiki/OrthoFinder) | Needs citations | |
 | [Maximal unique match](https://en.wikipedia.org/wiki/Maximal_unique_match) | Needs citations | |
+| [Biodiversity Informatics](https://en.wikipedia.org/wiki/Biodiversity_informatics) | | Susie |
 
 ## Competition Entries
 

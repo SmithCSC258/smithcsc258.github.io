@@ -40,9 +40,15 @@ PSet-4 is **due Tuesday, November 3**. Implement Hamming distance, approximate p
 
 [PSet-4 form](https://docs.google.com/forms/d/e/1FAIpQLSd0zsJdmnuo_apBuWpc1WmneGKKkNWJKFo4jFQv_nAxUt1e_g/viewform?usp=header)
 
+## PSet-5
+
+PSet-5 is **due Friday, November 20, at midnight (end of day, Eastern Time)**.
+
+[PSet-5 instructions and setup]({{ '/pset-5/' | relative_url }})
+
 ## Checkpoints
 
 | Date | Checkpoint |
 |:---|:---|
 | **Wed Oct. 7** | Component-algorithm checkpoint and pull request/code review 1 |
-| **Fri Nov. 6** | Graph/reconstruction project and Code Review 2 |
+| **Wed Nov. 18** | Graph/reconstruction project and Code Review 2 |

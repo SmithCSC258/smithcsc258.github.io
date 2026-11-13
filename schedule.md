@@ -33,13 +33,15 @@ Wednesday, September 23 is Mountain Day; no class will meet. Topics have shifted
 | **15** | Wed 10/28 | **[Agglomerative Clustering]({{ '/sessions/15/' | relative_url }})** |  |
 | **16** | Fri 10/30 | **[Introduction to Alignment]({{ '/sessions/16/' | relative_url }})** |  |
 |  | Tue 11/3 | **Assignment deadline** | [PSet-4]({{ '/pset-4/' | relative_url }}) due |
-| **17** | Wed 11/4 | **[de Bruijn Graphs]({{ '/sessions/17/' | relative_url }})** | Reading: pp. 117–129 |
-| **18** | Fri 11/6 | **[Sequence Comparison as Optimization]({{ '/sessions/18/' | relative_url }})** | Code Review 2: graph/reconstruction project; Midterm: [draft due — submit on Moodle](https://moodle.smith.edu/mod/assign/view.php?id=1526822) |
+| **17** | Wed 11/4 | **[de Bruijn Graphs]({{ '/sessions/17/' | relative_url }})** | Reading: pp. 117–129, or Cogniterra sections 3.1, 3.2, and 3.3 up to “The genome vanishes” |
+| **18** | Fri 11/6 | **[Sequence Comparison as Optimization]({{ '/sessions/18/' | relative_url }})** | Midterm: [draft due — submit on Moodle](https://moodle.smith.edu/mod/assign/view.php?id=1526822) |
 | **19** | Wed 11/11 | **[Genome Assembly Jigsaw]({{ '/sessions/19/' | relative_url }})** | Midsemester Evaluation (MSA) at 2:15 p.m. |
-| **20** | Fri 11/13 | **[Local Alignment and Algorithmic Choices]({{ '/sessions/20/' | relative_url }})** | Reading: up until “The Seven Bridges of Königsberg” (p. 139, second edition), or online sections 3.4 and 3.5. Midterm peer review due asynchronously |
-| **21** | Wed 11/18 | **[Genome Indexing and Search + Burrows–Wheeler Transform / FM-index]({{ '/sessions/21/' | relative_url }})** | Final project plan: algorithm decomposition + prior-project map |
+| **20** | Fri 11/13 | **[Local Alignment and Algorithmic Choices]({{ '/sessions/20/' | relative_url }})** | Reading: up until “The Seven Bridges of Königsberg” (p. 139, second edition), or online sections 3.4 and 3.5. Midterm: [peer review assignments]({{ '/peer-reviewer/' | relative_url }}) — due Tuesday, December 1 |
+| **21** | Wed 11/18 | **[Genome Indexing and Search + Burrows–Wheeler Transform / FM-index]({{ '/sessions/21/' | relative_url }})** | Code Review 2: graph/reconstruction project; Final project plan: algorithm decomposition + prior-project map |
 | **22** | Fri 11/20 | **[Final Project: Architecture and Interface Design]({{ '/sessions/22/' | relative_url }})** | Final project: architecture/specification review |
+|  | Fri 11/20, midnight (end of day, Eastern Time) | **Assignment deadline** | [PSet-5]({{ '/pset-5/' | relative_url }}) due |
 |  | Wed 11/25 & Fri 11/27 | **Thanksgiving recess — no class** |  |
+|  | Tue 12/1 | **Midterm deadline** | [Peer review]({{ "/peer-reviewer/" | relative_url }}) due |
 | **23** | Wed 12/2 | **[Final Project I: Data Representations]({{ '/sessions/23/' | relative_url }})** | Final project: minimum viable implementation |
 | **24** | Fri 12/4 | **[Final Project II: Real-World Data]({{ '/sessions/24/' | relative_url }})** | Final project: testing and validation; Midterm: final published article and reflection due |
 | **25** | Wed 12/9 | **[Final Project: Initial Submission]({{ '/sessions/25/' | relative_url }})** | Final project: first complete version |
