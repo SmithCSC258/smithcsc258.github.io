@@ -38,8 +38,8 @@ Wednesday, September 23 is Mountain Day; no class will meet. Topics have shifted
 | **19** | Wed 11/11 | **[Genome Assembly Jigsaw]({{ '/sessions/19/' | relative_url }})** | Midsemester Evaluation (MSA) at 2:15 p.m. |
 | **20** | Fri 11/13 | **[Overlap Graphs and Tries]({{ '/sessions/20/' | relative_url }})** | Reading: up until “The Seven Bridges of Königsberg” (p. 139, second edition), or online sections 3.4 and 3.5. Midterm: [peer review assignments]({{ '/peer-reviewer/' | relative_url }}) — due Tuesday, December 1 |
 | **21** | Wed 11/18 | **[CI/CD, PSet-5 Work, and Benchmarking]({{ '/sessions/21/' | relative_url }})** | Work on [PSet-5]({{ '/pset-5/' | relative_url }}); bring PSet-3 and PSet-4 code for benchmarking |
-| **22** | Fri 11/20 | **[Genome Assembly]({{ '/sessions/22/' | relative_url }})** | Reading: “The Seven Bridges of Königsberg” up to the epilogue (epilogue discussion after Thanksgiving). Optional additional reading: §3.19, Detour: Tractable and Intractable Problems. [PSet-5]({{ '/pset-5/' | relative_url }}) due at midnight (end of day, Eastern Time) |
-|  | Fri 11/20, midnight (end of day, Eastern Time) | **Assignment deadline** | [PSet-5]({{ '/pset-5/' | relative_url }}) due |
+| **22** | Fri 11/20 | **[Genome Assembly]({{ '/sessions/22/' | relative_url }})** | [Reading and group preparation]({{ '/sessions/22/' | relative_url }}) |
+|  | Fri 11/20, midnight ET | **Assignment deadline** | [PSet-5]({{ '/pset-5/' | relative_url }}) due at the end of Friday |
 |  | Wed 11/25 & Fri 11/27 | **Thanksgiving recess — no class** |  |
 |  | Tue 12/1 | **Midterm deadline** | [Peer review]({{ "/peer-reviewer/" | relative_url }}) due |
 | **23** | Wed 12/2 | **[Final Project I: Data Representations]({{ '/sessions/23/' | relative_url }})** | Final project: minimum viable implementation |
