@@ -37,7 +37,7 @@ Wednesday, September 23 is Mountain Day; no class will meet. Topics have shifted
 | **18** | Fri 11/6 | **[Sequence Comparison as Optimization]({{ '/sessions/18/' | relative_url }})** | Midterm: [draft due — submit on Moodle](https://moodle.smith.edu/mod/assign/view.php?id=1526822) |
 | **19** | Wed 11/11 | **[Genome Assembly Jigsaw]({{ '/sessions/19/' | relative_url }})** | Midsemester Evaluation (MSA) at 2:15 p.m. |
 | **20** | Fri 11/13 | **[Overlap Graphs and Tries]({{ '/sessions/20/' | relative_url }})** | Reading: up until “The Seven Bridges of Königsberg” (p. 139, second edition), or online sections 3.4 and 3.5. Midterm: [peer review assignments]({{ '/peer-reviewer/' | relative_url }}) — due Tuesday, December 1 |
-| **21** | Wed 11/18 | **[Genome Indexing and Search + Burrows–Wheeler Transform / FM-index]({{ '/sessions/21/' | relative_url }})** | Code Review 2: graph/reconstruction project; Final project plan: algorithm decomposition + prior-project map |
+| **21** | Wed 11/18 | **[PSet-5 Work and Benchmarking]({{ '/sessions/21/' | relative_url }})** | Work on [PSet-5]({{ '/pset-5/' | relative_url }}); bring PSet-3 and PSet-4 code for benchmarking |
 | **22** | Fri 11/20 | **[Final Project: Architecture and Interface Design]({{ '/sessions/22/' | relative_url }})** | Final project: architecture/specification review |
 |  | Fri 11/20, midnight (end of day, Eastern Time) | **Assignment deadline** | [PSet-5]({{ '/pset-5/' | relative_url }}) due |
 |  | Wed 11/25 & Fri 11/27 | **Thanksgiving recess — no class** |  |
