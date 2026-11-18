@@ -33,39 +33,3 @@ strings for BA1I and BA1J.
 ## Submission
 
 [PSet-4 submission form](https://docs.google.com/forms/d/e/1FAIpQLSd0zsJdmnuo_apBuWpc1WmneGKKkNWJKFo4jFQv_nAxUt1e_g/viewform?usp=header)
-
-## Setup and imports
-
-Use Python 3.10 or newer. From the repository root (the folder containing
-`pset-4/`), create and activate a virtual environment if needed:
-
-```sh
-python3 -m venv .venv
-source .venv/bin/activate
-python -m pip install -e ./pset-4
-```
-
-If you already have a virtual environment, activate it and run just the
-install command. On subsequent visits, activate it again. The editable
-install means source edits take effect without reinstalling.
-
-For a notebook opened at the repository root, install into its environment:
-
-```python
-%pip install -e ./pset-4
-```
-
-Restart the kernel after installation. Import the assignment functions with:
-
-```python
-from pset4 import (
-    hammingDistance,
-    approximatePatternMatching,
-    frequentWordsWithMismatches,
-    frequentWordsWithMismatchesAndReverseComplements,
-)
-```
-
-All four package exports are provided. This starter has no dependency on
-earlier assignments. Import the package rather than running individual
-source files directly. Unfinished stubs raise `NotImplementedError`.

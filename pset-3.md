@@ -36,33 +36,6 @@ Refer to the linked pages for the full problem statements.
 
 [PSet-3 submission form](https://docs.google.com/forms/d/e/1FAIpQLSd0zsJdmnuo_apBuWpc1WmneGKKkNWJKFo4jFQv_nAxUt1e_g/viewform?usp=header)
 
-## Setup
-
-Use Python 3.10 or newer. From the repository root, create and activate a
-virtual environment if you do not already have one:
-
-```sh
-python3 -m venv .venv
-source .venv/bin/activate
-python -m pip install -e ./pset-3
-```
-
-On subsequent visits, activate the environment with `source .venv/bin/activate`.
-This package does not require the earlier assignments.
-
-In a notebook opened at the repository root, install with:
-
-```python
-%pip install -e ./pset-3
-```
-
-Restart the kernel after installation. Import the functions using the package
-name `pset3`, rather than running individual source files:
-
-```python
-from pset3 import frequencyArray, transcribeRNA, reverseComplement, findClumps
-```
-
 ## Sample calls and expected results
 
 These calls use the samples from the linked Rosalind pages. They will raise
