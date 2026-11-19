@@ -21,9 +21,9 @@ For the midterm project, each student will improve a computational biology artic
 | **Friday, October 16, in class** | **Completed planning form and existing-article analysis** — bring your possible improvements, identifying strengths, weaknesses, gaps, and sourcing needs. [Book a time for Friday](https://calendar.app.google/LbTMcBAzuJZ4Bujs7). |
 | **Friday, November 6** | **[Draft — submit on Moodle](https://moodle.smith.edu/mod/assign/view.php?id=1526822)** — complete the proposed edits with sources and edit summaries in place. |
 | **Tuesday, December 1** | **Peer review** — give and receive actionable feedback on the draft asynchronously. See the [Peer Reviewer page]({{ '/peer-reviewer/' | relative_url }}) for assignments. |
-| **Friday, December 4** | **Final Wikipedia submission** — publish the revised article and submit the accompanying reflection. |
+| **Tuesday, December 15, at midnight (end of day, Eastern Time)** | **Final Wikipedia submission** — publish the revised article and submit the accompanying reflection. |
 
-For the final submission, the revised article must be published on Wikipedia, with complete sources and edit summaries, and the accompanying reflection must be submitted. Competition administration may occur later, but the academic work for this project must be finished by December 4.
+For the final submission, the revised article must be published on Wikipedia, with complete sources and edit summaries, and the accompanying reflection must be submitted. Competition administration may occur later, but the academic work for this project must be finished by Tuesday, December 15, at midnight (end of day, Eastern Time).
 
 Friday, October 16 will be an in-class midterm working day. [Complete the planning form before class](https://docs.google.com/forms/d/e/1FAIpQLSefSxsLsfi8SQfT5X_YetW2Z8YZ6Tvp3h26qJVuv4sPcWuAmg/viewform?usp=header) and [book a time](https://calendar.app.google/LbTMcBAzuJZ4Bujs7). Use this time to discuss your possible improvements and work on your article.
 

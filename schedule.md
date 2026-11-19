@@ -43,8 +43,9 @@ Wednesday, September 23 is Mountain Day; no class will meet. Topics have shifted
 |  | Wed 11/25 & Fri 11/27 | **Thanksgiving recess — no class** |  |
 |  | Tue 12/1 | **Midterm deadline** | [Peer review]({{ "/peer-reviewer/" | relative_url }}) due |
 | **23** | Wed 12/2 | **[Final Project I: Data Representations]({{ '/sessions/23/' | relative_url }})** | Final project: minimum viable implementation |
-| **24** | Fri 12/4 | **[Final Project II: Real-World Data]({{ '/sessions/24/' | relative_url }})** | Final project: testing and validation; Midterm: final published article and reflection due |
+| **24** | Fri 12/4 | **[Final Project II: Real-World Data]({{ '/sessions/24/' | relative_url }})** | Final project: testing and validation |
 | **25** | Wed 12/9 | **[Final Project: Initial Submission]({{ '/sessions/25/' | relative_url }})** | Final project: first complete version |
 | **26** | Fri 12/11 | **[Final Project: Benchmarking and Code Review]({{ '/sessions/26/' | relative_url }})** | Final project: Jellyfish comparison, benchmarking, and formal team code review 3 |
 |  | Tue 12/15 | **No class meeting** | Final project: iteration plan |
-|  | Sun 12/20, 11:59 p.m. | **Final project deadline** | Final Project: Iteration |
+|  | Tue 12/15, midnight ET (end of day) | **Midterm deadline** | [Final Wikipedia article and reflection]({{ '/midterm/' | relative_url }}) due |
+|  | Tue 12/22, 3 p.m. ET | **Final project deadline** | [Final Project: Iteration]({{ '/final-project/' | relative_url }}) due |

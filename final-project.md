@@ -27,4 +27,4 @@ Throughout the semester, students will complete checkpoints on component algorit
 | **Wednesday, December 9** | **First complete version** — submit a complete working implementation and technical explanation. This is the project's initial submission before benchmarking and iteration. |
 | **Friday, December 11** | **Benchmarking and peer/code review** — evaluate performance and receive actionable feedback. |
 | **Tuesday, December 15** | **Iteration plan** — use the evidence and peer review to identify what should change and what will be revised. |
-| **Sunday, December 20 at 11:59 p.m.** | **Final Project: Iteration** — submit the revised implementation, final analysis, and reflection based on benchmarking and feedback. |
+| **Tuesday, December 22 at 3 p.m. Eastern Time** | **Final Project: Iteration** — submit the revised implementation, final analysis, and reflection based on benchmarking and feedback. |
